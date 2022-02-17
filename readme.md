@@ -8,4 +8,4 @@ npm start
 ```
 
 # Demo
-> Open this [LINK](sdfsfgfdgdfg) :clap:
+> Open this [LINK](https://nodemailer-server-1994.herokuapp.com/) :clap:
