@@ -12,5 +12,5 @@ app.use(cors());
 
 app.use('/api/mail', require('./routes/Mail.routes'));
 
-app.get('/', (req, res) => res.send('Hello World!'))
+app.get('/', (req, res) => res.send('Welcome to nodemailer server'))
 app.listen(port, () => console.log(`App working on port ${port}!`))
